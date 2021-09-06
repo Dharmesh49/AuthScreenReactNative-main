@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1045084086941",
+    "project_id": "reactnativelogin-4c8f0",
+    "storage_bucket": "reactnativelogin-4c8f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045084086941:android:8749d708da17f08503ea74",
+        "android_client_info": {
+          "package_name": "com.AuthScreenReactNative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045084086941-89k9gnfle3c4lq0prrj604qvojvb392n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUidtww4JAgyHFnpmLjCdNsOa-v93g_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045084086941-89k9gnfle3c4lq0prrj604qvojvb392n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045084086941-at8ra45m9d96407f63pvlcqra23jf0aa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AuthScreenReactNative"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
